@@ -4,31 +4,31 @@ NIIVTB is a Vietnamese constituent treebank that is annotated with three layers:
 Due to the copyright issue, we provide only annotations. In order to obtain a treebank with original raw texts, please follow this procedure.
 
 NIIVTB-1:
-1.	Place .raw files of the VLSP treebank (https://vlsp.hpda.vn/) in the directory *NIIVTB-1-RawText*
-2.	Run *./merge.py treebank/NIIVTB-1*
-3.	NIIVTB-1 with raw texts are output in *NIIVTB-1-Finished*
+1.	Place .raw files of the VLSP treebank (https://vlsp.hpda.vn/) in the directory *"NIIVTB-1-RawText"*
+2.	Run *"./merge.py treebank/NIIVTB-1"*
+3.	NIIVTB-1 with raw texts are output in *"NIIVTB-1-Finished"*
 
 NIIVTB-2:
 1.	Acquire texts from Thanhnien newspaper (https://thanhnien.vn)
 2.	Preprocess text:
 
-a.	Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html* is named as  *Dev_Economic_0.raw*
+..a.	Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *"// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html"* is named as  *"Dev_Economic_0.raw"*
 
-b.	Segment sentences, for example:
+..b.	Segment sentences, for example:
 
-Original newspaper:
+...Original newspaper:
 
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-OriginalNewspaper.jpg)
 
-Newspaper after sentence segmentation:
+...Newspaper after sentence segmentation:
 
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-PreprocessedText.jpg)
 
-3.	Place the preproced texts in the directory "NIIVTB-2-RawText"
-4.	Run "./merge.py NIIVTB-2".
-5.	NIIVTB-2 with raw texts are output in "NIIVTB-2-Finished"
+3.	Place the preproced texts in the directory *"NIIVTB-2-RawText"*
+4.	Run *"./merge.py treebank/NIIVTB-2"*.
+5.	NIIVTB-2 with raw texts are output in *"NIIVTB-2-Finished"*
 
-*Note:* If your raw texts are not identical to our texts, the invalid files will be listed in "invalidFiles.txt". This means that the treebank was not created for those files. Please refer to the files in the directory NIIVTB-1-ID or NIIVTB-2-ID for modifying your texts. Your texts must have the same name and number of sentences (rows) as the ID files. Number in each row in the ID files indicates number of syllables per sentence that the raw texts must follow. 
+*Note:* If your raw texts are not identical to our texts, the invalid files will be listed in *"invalidFiles.txt"*. This means that the treebank was not created for those files. Please refer to the files in the directory *"NIIVTB-1-ID"* or *"NIIVTB-2-ID"* for modifying your texts. Your texts must have the same name and number of sentences (rows) as the ID files. Number in each row in the ID files indicates number of syllables per sentence that the raw texts must follow. 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic]( https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
@@ -48,16 +48,16 @@ var md = require('markdown-it')()
 | 5	|Nun	|Special unit noun|	22|	Pd	|Demonstrative pronoun|
 | 6	|Nw|	Quantifier indicating the whole	|23|	Pp|	Other pronoun|
 | 7	|Num|	Number|	24|	R	|Adjunct|
-| 8	|Nq	|Other quantifier|	25 \	Cs \	Preposition or conjunction introducing a clause \
-| 9 |	Nr	|Proper noun|	\ \ \
-| 10	|Nt|	Noun of time	| 26|	Cp|	Other conjunction|
-| 11 |	Nn|	Other noun|	27	|ON|	Onomatopoeia|
-| 12	|Ve|	Exiting verb	| 28	|ID	|Idioms|
-| 13 |	Vc|	Copula "là" verb|	29	|E|	Exclamation word|
-| 14	|D	|Directional verb|	30	|M	|Modifier word|
-| 15	|VA	|Verb-adjective|	31|	FW|	Foreign word|
-| 16|	VN|	Verb-noun|	32|	X	|Unknown word|
-| 17	|NA|	Noun-adjective| 33|	PU	|Punctuation|
+| 8	|Nq	|Other quantifier|	25 |	Cs |	Preposition or conjunction introducing a clause |
+| 9 |	Nr	|Proper noun| 26| Cp|	Other conjunction|
+| 10	|Nt|	Noun of time	| 27	|ON|	Onomatopoeia|
+| 11 |	Nn|	Other noun|	28	|ID	|Idioms|
+| 12	|Ve|	Exiting verb	| 29	|E|	Exclamation word|
+| 13 |	Vc|	Copula "là" verb|30	|M	|Modifier word|	
+| 14	|D	|Directional verb|	31|	FW|	Foreign word|
+| 15	|VA	|Verb-adjective|32|	X	|Unknown word|	
+| 16|	VN|	Verb-noun|	33|	PU	|Punctuation|
+| 17	|NA|	Noun-adjective| | | | 
 
 Constituency tags
 
@@ -105,19 +105,21 @@ Word-internal structure tags
 
 | Group |	Tag |	Description |
 | ------------- | ------------- | ------------- |
-| Word \	Nn_w |	A combination of one or more Sino-Vietnamese elements and an original Vietnamese word to create a noun  |
-| \	Vv_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create a verb  |
-| \ 	Aa_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create an adjective  |
-| \ 	R_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create an adjunct  |
-| Supra-word sub-phrase \	Nn_swsp |	A sequence of a classifier noun (Nc) and its modifier that has meaning as a noun |
-| 	\ Nn_swsp |	A sequence of a special classifier noun (Ncs) and its modifier that has meaning as a noun |
-| \ 	Nn_swsp |	A sequence of a categorization noun (Nn) and its modifier that has meaning as a noun |
-| \ 	Vv_swsp_Rt |	A repetitive form that has meaning as a verb |
-| \ 	Aa_swsp_Rt |	A repetitive form that has meaning as an adjective |
-| \ 	Nn_swsp_Rt |	A repetitive form that has meaning as a noun |
-| \ 	On_swsp_Rt |	A repetitive form is a sound |
+| Word |	Nn_w |	A combination of one or more Sino-Vietnamese elements and an original Vietnamese word to create a noun  |
+| |	Vv_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create a verb  |
+| | 	Aa_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create an adjective  |
+| | 	R_w |	A combination of a Sino-Vietnamese element and an original Vietnamese word to create an adjunct  |
+| Supra-word sub-phrase |	Nn_swsp |	A sequence of a classifier noun (Nc) and its modifier that has meaning as a noun |
+| 	| Nn_swsp |	A sequence of a special classifier noun (Ncs) and its modifier that has meaning as a noun |
+| | 	Nn_swsp |	A sequence of a categorization noun (Nn) and its modifier that has meaning as a noun |
+| | 	Vv_swsp_Rt |	A repetitive form that has meaning as a verb |
+| | 	Aa_swsp_Rt |	A repetitive form that has meaning as an adjective |
+| | 	Nn_swsp_Rt |	A repetitive form that has meaning as a noun |
+| |	On_swsp_Rt |	A repetitive form is a sound |
 
 Details of these tags are available in our LRE paper.
-###Publications:
-1.	Quy T. Nguyen, Yusuke Miyao, Ha T.T. Le, Nhung T.H. Nguyen. 2018. [Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank](https://link.springer.com/article/10.1007/s10579-017-9398-3). Language Resources and Evaluation, 52(1), pages: 269-315.
-2.	Quy T. Nguyen, Yusuke Miyao, Ha T.T. Le, Ngan L.T. Nguyen. 2016.  [Challenges and Solutions for Consistent Annotation of Vietnamese Treebank](http://www.lrec-conf.org/proceedings/lrec2016/pdf/95_Paper.pdf). In proceedings of 10th edition of the Language Resources and Evaluation Conference, pages: 1532-1539.
+
+### Publications:
+
+1.	Quy T. Nguyen, Yusuke Miyao, Ha T.T. Le, Nhung T.H. Nguyen. 2018. *[Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank](https://link.springer.com/article/10.1007/s10579-017-9398-3)*. Language Resources and Evaluation, 52(1), pages: 269-315.
+2.	Quy T. Nguyen, Yusuke Miyao, Ha T.T. Le, Ngan L.T. Nguyen. 2016.  *[Challenges and Solutions for Consistent Annotation of Vietnamese Treebank](http://www.lrec-conf.org/proceedings/lrec2016/pdf/95_Paper.pdf)*. In proceedings of 10th edition of the Language Resources and Evaluation Conference, pages: 1532-1539.
