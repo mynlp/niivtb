@@ -13,6 +13,7 @@ NIIVTB-2:
 2.	Preprocess text:
 * Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *"// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html"* is named as  *"Dev_Economic_0.raw"*
 * Segment sentences, for example:
+
 Original newspaper:
 
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-OriginalNewspaper.jpg)
@@ -111,7 +112,7 @@ Word-internal structure tags
 | | 	Nn_swsp_Rt |	A repetitive form that has meaning as a noun |
 | |	On_swsp_Rt |	A repetitive form is a sound |
 
-Details of these tags are available in our LRE paper.
+Details of these tags are available in our [LRE paper](https://link.springer.com/article/10.1007/s10579-017-9398-3 "Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank").
 
 ### Publications:
 
