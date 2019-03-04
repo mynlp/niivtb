@@ -36,6 +36,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 POS tags
 
+var md = require('markdown-it')()
+            .use(require('markdown-it-multimd-table'), {enableMultilineRows: true});
+
 | No.| POS tag |	Meaning of tag |	No. |	POS tag	| Meaning of tag |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1	| Sv	| Sino-Vietnamese syllable |	18	| Vcp	Comparative verb |
