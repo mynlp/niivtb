@@ -112,7 +112,7 @@ Word-internal structure tags
 | | 	Nn_swsp_Rt |	A repetitive form that has meaning as a noun |
 | |	On_swsp_Rt |	A repetitive form is a sound |
 
-Details of these tags are available in our [LRE paper](https://link.springer.com/article/10.1007/s10579-017-9398-3 "Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank").
+Details of these tags are available in [our LRE paper](https://link.springer.com/article/10.1007/s10579-017-9398-3 "Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank").
 
 ### Publications:
 
