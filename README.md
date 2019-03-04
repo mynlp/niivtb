@@ -11,7 +11,7 @@ NIIVTB-1:
 NIIVTB-2:
 1.	Acquire texts from Thanhnien newspaper (https://thanhnien.vn)
 2.	Preprocess text:
-i.	Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *"// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html"* is named as  *"Dev_Economic_0.raw"*
+* Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *"// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html"* is named as  *"Dev_Economic_0.raw"*
 ii.	Segment sentences, for example:
 ...Original newspaper:
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-OriginalNewspaper.jpg)
