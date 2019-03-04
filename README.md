@@ -12,10 +12,13 @@ NIIVTB-2:
 1.	Acquire texts from Thanhnien newspaper (https://thanhnien.vn)
 2.	Preprocess text:
 * Name the file based on information provided in the file "Thanhnien URLs.txt", for example, the newspaper from *"// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html"* is named as  *"Dev_Economic_0.raw"*
-ii.	Segment sentences, for example:
-...Original newspaper:
+* Segment sentences, for example:
+Original newspaper:
+
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-OriginalNewspaper.jpg)
-...Newspaper after sentence segmentation:
+
+Newspaper after sentence segmentation:
+
 ![alt text](https://github.com/mynlp/niivtb/blob/master/treebank/Ex-PreprocessingText/Ex-PreprocessedText.jpg)
 
 3.	Place the preproced texts in the directory *"NIIVTB-2-RawText"*
