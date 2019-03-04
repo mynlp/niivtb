@@ -1,0 +1,1264 @@
+Test_Health_1.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/loi-ke-cua-nguoi-vua-thoat-khoi-luoi-hai-tu-than-ebola-450986.html
+
+Test_Health_0.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/my-canada-tang-cuong-kiem-dich-ebola-tai-san-bay-501783.html
+
+Test_Health_2.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/giam-nguy-co-ung-thu-vu-bang-cach-don-gian-510357.html
+
+Test_Health_3.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/nuoc-dong-chai-icy-su-lua-chon-an-toan-cho-suc-khoe-32624.html
+
+Test_Health_4.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/khanh-thanh-benh-vien-da-khoa-300-ti-dong-455433.html
+
+Test_Law_7.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bi-cao-gay-an-duoc-tuyen-nhe-hon-nguoi-chung-kien-1544.html
+
+Test_Law_6.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/tuyen-an-tu-hinh-ke-hiep-dam-roi-giet-nan-nhan-vi-so-bao-cong-an-514142.html
+
+Test_Law_4.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/truy-to-14-nguoi-to-chuc-mai-dam-tai-khach-san-435121.html
+
+Test_Law_5.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/mat-trom-15-ti-dong-truoc-ngan-hang-517601.html
+
+Test_Law_1.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/thieu-nu-bi-giet-roi-chon-giua-dong-thuong-nong-to-cong-tac-pha-an-nhanh-453683.html
+
+Test_Law_0.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/khoi-to-vu-an-thu-ky-toa-nhan-tien-cua-duong-su-454841.html
+
+Test_Law_2.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/tam-giu-gan-3000-goi-thuoc-la-lau-447593.html
+
+Test_Law_3.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/nua-dem-dot-nhap-nha-ba-lao-77-tuoi-cuop-tai-san-465752.html
+
+Test_Economic_1.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/stda-mo-ban-giai-doan-cuoi-du-an-mega-ruby-mien-phi-2-nam-phi-quan-ly-515219.html
+
+Test_Economic_0.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/dac-biet-can-trong-trong-thiet-ke-thi-cong-metro-444455.html
+
+Test_Economic_2.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/techcombank-ky-ket-hop-tac-voi-cuc-dau-tu-nuoc-ngoai-510616.html
+
+Test_Economic_3.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/vn-nam-trong-top-10-nuoc-co-kieu-hoi-lon-nhat-518118.html
+
+Test_Economic_7.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/them-nhieu-doanh-nghiep-thuy-san-duoc-xuat-khau-vao-nga-450361.html
+
+Test_Economic_6.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/viet-nam-trong-nhom-10-quoc-gia-co-luong-kieu-hoi-lon-nhat-13927.html
+
+Test_Economic_4.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/keo-dai-thoi-gian-cho-vay-ngoai-te-518349.html
+
+Test_Economic_5.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/tphcm-de-xuat-du-an-metro-su-dung-von-oda-cua-chinh-phu-duc-511707.html
+
+Test_Economic_8.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/kinh-te-nhat-ky-vong-vao-olympics-2020-465217.html
+
+Test_Education_5.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/trao-hoc-bong-cho-con-em-ngu-dan-451136.html
+
+Test_Education_4.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/them-hai-truong-cong-bo-xet-tuyen-18698.html
+
+Test_Education_3.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/dai-hoc-su-pham-ha-noi-dung-ket-qua-thi-thpt-quoc-gia-de-tuyen-sinh-517303.html
+
+Test_Education_2.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hinh-anh-chien-si-hai-quan-vao-de-thi-dai-hoc-261559.html
+
+Test_Education_0.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/khong-nhan-xet-hoc-sinh-theo-mau-506324.html
+
+Test_Education_1.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/truong-chuan-pha-chuan-506521.html
+
+Test_Entertainment_2.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/hoai-lam-gop-mat-trong-liveshow-cua-quang-le-va-phuong-my-chi-517756.html
+
+Test_Entertainment_3.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/toa-dam-khoa-hoc-dau-tien-ve-bui-giang-363445.html
+
+Test_Entertainment_1.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/zing-chon-phuong-my-chi-vao-top-10-nghe-si-moi-cua-nam-8936.html
+
+Test_Entertainment_0.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/tao-dieu-kien-de-nghe-si-tap-trung-cho-lao-dong-sang-tao-518150.html
+
+Test_Entertainment_4.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/9-cap-vo-chong-cung-thi-hat-518083.html
+
+Test_Entertainment_5.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/the-hunger-games-mockingjay-part-1-thu-duoc-258-trieu-usd-sau-3-tuan-515117.html
+
+Test_Entertainment_6.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/xiec-kich-nghe-am-nhac-vu-dao-trong-lang-toi-321720.html
+
+Test_Science_3.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/tim-thay-xac-uop-bo-rung-gan-10000-nam-tuoi-508134.html
+
+Test_Science_2.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/xay-nha-nho-vi-khuan-505487.html
+
+Test_Science_0.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nasa-mo-rong-danh-sach-hanh-tinh-co-su-song-952.html
+
+Test_Science_1.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ro-bot-tu-lap-rap-nhu-trong-phim-ke-huy-diet-13716.html
+
+Test_Science_5.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/thu-hoi-vi-song-that-thoat-90024.html
+
+Test_Science_4.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/camera-chup-mui-23405.html
+
+Test_Science_6.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/robot-bat-vat-the-bay-79260.html
+
+Test_Science_7.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/chuon-chuon-khung-392082.html
+
+Test_Science_8.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/mo-hinh-3d-chim-dodo-510175.html
+
+Test_World_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/tai-xe-uber-an-do-ham-hiep-nu-hanh-khach-bi-bat-giu-514960.html
+
+Test_World_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/cha-de-world-wide-web-chi-trich-tong-thong-putin-515982.html
+
+Test_World_7.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/nga-lenh-cho-qua-bom-sex-anna-chapman-quyen-ru-edward-snowden-514973.html
+
+Test_World_6.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/taliban-tan-cong-kabul-ban-ha-quan-chuc-toa-toi-cao-afghanistan-516337.html
+
+Test_World_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/bao-chi-thoi-phong-tam-ly-lo-so-ebola-o-my-504174.html
+
+Test_World_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/khoi-mu-trung-quoc-la-khac-tinh-cua-vu-khi-laser-my-360445.html
+
+Test_World_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/is-huan-luyen-tre-em-5-tuoi-thanh-chien-binh-517767.html
+
+Test_World_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/may-bay-hu-dong-co-giua-troi-191-hanh-khach-hoang-loan-503659.html
+
+Test_Life_2.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/gia-hoa-dan-so-nhanh-hon-du-bao-454275.html
+
+Test_Life_3.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/vu-giang-chuc-giam-doc-benh-vien-nhan-ban-ket-qua-xet-nghiem-nguoi-to-cao-van-lo-lang-448971.html
+
+Test_Life_1.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/xoa-nhanh-quang-tham-mat-511796.html
+
+Test_Life_0.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/800-buc-anh-kho-lon-ve-di-san-van-hoa-viet-nam-da-duoc-trung-bay-trien-lam-doc-dat-nuoc-89677.html
+
+Test_Life_4.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/bao-so-2-da-suy-yeu-thanh-ap-thap-nhiet-doi-263844.html
+
+Test_Military_8.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/7-linh-myanmar-thiet-mang-khi-giao-tranh-voi-phien-quan-517718.html
+
+Test_Military_1.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/viet-nam-da-bay-to-voi-toa-trong-tai-lap-truong-quan-diem-ve-vu-kien-trong-tai-bien-dong-515904.html
+
+Test_Military_0.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/trung-quoc-dieu-tiem-kich-tuan-tra-vung-phong-khong-moi-89383.html
+
+Test_Military_2.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/israel-ham-danh-phu-dau-iran-11926.html
+
+Test_Military_3.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/cu-kip-tau-ngam-so-5-da-nang-di-hoc-tap-o-nga-338642.html
+
+Test_Military_7.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/quan-doi-my-thu-nghiem-ca-robot-gian-diep-516959.html
+
+Test_Military_6.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/ukraine-gui-them-quan-den-mien-dong-507375.html
+
+Test_Military_4.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/video-clip-ky-cong-van-chuyen-16-kg-uranium-ra-khoi-viet-nam-23618.html
+
+Test_Military_5.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/chien-dau-co-tang-hinh-j31-bi-phat-hien-chi-sau-10-phut-517136.html
+
+Test_Sports_1.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140730/trao-giai-cac-cuoc-thi-du-doan-ket-qua-world-cup-2014.aspx
+
+Test_Sports_0.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20131221/u-23-thai-lan-doat-hcv-sea-games-27.aspx
+
+Test_Sports_2.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140829/boc-tham-vong-bang-europa-league-sevilla-va-everton-gap-kho.aspx
+
+Test_Sports_3.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130614/wags-y-tan-cong-confederations-cup-2013.aspx
+
+Test_Sports_6.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141218/khong-du-giai-u19-quoc-gia-hagl-doi-mat-voi-an-phat-nang.aspx
+
+Test_Sports_4.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140523/tien-dao-suarez-phau-thuat-thanh-cong.aspx
+
+Test_Sports_5.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140121/the-thao-trong-nuoc-21-1-2014.aspx
+
+Test_Politics_society_6.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/thue-giet-nguoi-voi-gia-1-ti-dong-501890.html
+
+Test_Politics_society_7.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/triet-pha-duong-day-lam-chung-thu-bao-lanh-gia-de-lua-dao-503957.html
+
+Test_Politics_society_5.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bao-chi-gop-phan-dau-tranh-bao-ve-chu-quyen-bien-dao-466151.html
+
+Test_Politics_society_4.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/can-bo-ngang-nhien-cat-dat-cua-dan-452025.html
+
+Test_Politics_society_0.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/phat-hon-26-ti-dong-ve-gian-lan-thuong-mai-14374.html
+
+Test_Politics_society_1.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/xe-tai-boc-chay-453855.html
+
+Test_Politics_society_3.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bang-gia-co-kha-nang-xay-ra-o-vung-nui-cao-bac-bo-518145.html
+
+Test_Politics_society_2.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bat-giu-xe-cho-hang-nghi-nhap-lau-451383.html
+
+Test_Information_technology_6.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/mo-ban-kinh-thuc-te-ao-gia-re-zeiss-vr-one-516167.html
+
+Test_Information_technology_7.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/hon-40000-ngan-website-bi-ma-doc-tan-cong-430919.html
+
+Test_Information_technology_5.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/app-store-thay-nut-free-bang-nut-get-510832.html
+
+Test_Information_technology_4.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/apacer-da-co-ban-128-gb-cho-loai-usb-30-ah552-va-ah450-32098.html
+
+Test_Information_technology_0.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/blackberry-co-tro-ly-ao-thong-minh-262737.html
+
+Test_Information_technology_1.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/fbi-phu-nhan-trieu-tien-lien-quan-vu-tan-cong-mang-my-515389.html
+
+Test_Information_technology_3.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/may-tinh-usb-cua-intel-xuat-hien-tai-viet-nam-515851.html
+
+Test_Information_technology_2.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/sony-mo-ban-tv-chay-android-vao-dau-nam-2015-514537.html
+
+Test_Information_technology_8.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/luot-web-221157.html
+
+Test_Life_of_youth_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/doi-thoai-truc-tuyen-nam-thanh-nien-tinh-nguyen-2014-85433.html
+
+Test_Life_of_youth_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/thanh-nien-viet-kieu-den-voi-trien-lam-chu-quyen-bien-dao-262670.html
+
+Test_Life_of_youth_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/nan-moc-tui-tren-xe-buyt-ngay-cang-tinh-vi-phuc-tap-516351.html
+
+Test_Life_of_youth_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/hoan-canh-thuong-tam-cua-mot-tan-sinh-vien-91552.html
+
+Test_Life_of_youth_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/dh-lao-dong-xa-hoi-gianh-giai-nhat-cuoc-thi-tai-nang-va-phap-luat-90933.html
+
+Test_Life_of_youth_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/hon-thua-de-duoc-gi-5617.html
+
+Test_Travel_5.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/da-nang-quang-ba-nhieu-su-kien-du-lich-lon-327586.html
+
+Test_Travel_4.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hoi-an-thanh-cong-voi-san-pham-du-lich-dem-pho-co-501346.html
+
+Test_Travel_6.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/jetstar-pacific-ban-ve-tuyen-quoc-te-gia-0-dong-452432.html
+
+Test_Travel_7.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/ton-vinh-nhung-gia-tri-van-hoa-dac-sac-cua-bien-dao-509951.html
+
+Test_Travel_3.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/nhieu-co-hoi-phat-trien-hon-cho-du-lich-vn-514519.html
+
+Test_Travel_2.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/de-xuat-quy-hoach-mo-rong-dinh-deo-hai-van-327569.html
+
+Test_Travel_0.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/vietjet-mo-duong-bay-den-vung-vien-dong-451549.html
+
+Test_Travel_1.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/jetstar-pacific-tiep-tuc-ban-ve-may-bay-gia-3000-dongchang-444541.html
+
+Test_Travel_9.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hao-hung-hoi-pha-tram-o-quang-tri-450000.html
+
+Test_Travel_8.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/da-nang-dau-top-10-diem-den-dang-noi-cua-the-gioi-513840.html
+
+Train_Health_3.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/thieu-sat-trong-chu-ki-dung-chu-quan-444964.html
+
+Train_Health_2.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/nghe-si-kim-xuan-toi-quan-tam-den-che-do-dinh-duong-cho-trai-tim-505337.html
+
+Train_Health_0.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/7-cach-giup-giam-nguy-co-ung-thu-vu-518176.html
+
+Train_Health_1.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/bay-dau-hieu-nhan-biet-thoai-hoa-khop-506333.html
+
+Train_Health_5.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/giup-trai-tim-khoe-manh-1379.html
+
+Train_Health_4.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/kiem-soat-bien-chung-tieu-duong-nho-giam-hba1c-86914.html
+
+Train_Health_18.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/rau-cu-cho-benh-nhan-tieu-duong-513969.html
+
+Train_Health_6.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/san-phu-15-tuoi-sinh-doi-343029.html
+
+Train_Health_7.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/nhung-yeu-to-tang-nguy-co-ung-thu-vu-514410.html
+
+Train_Health_19.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/tang-cuong-suc-khoe-nam-gioi-235352.html
+
+Train_Health_14.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/hieu-dung-ve-benh-ung-thu-vu-512624.html
+
+Train_Health_15.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/doi-pho-voi-benh-thoai-hoa-khop-khi-giao-mua-508416.html
+
+Train_Health_17.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/do-nhat-nam-tu-hao-la-tre-em-viet-nam-phat-bieu-tai-hoi-nghi-nha-khoa-quoc-te-465973.html
+
+Train_Health_9.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/cho-mot-trai-tim-khoe-benh-tim-tai-sao-khong-phong-truoc-khi-qua-muon-463082.html
+
+Train_Health_8.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/nhung-dieu-can-biet-ve-cholesterol-446512.html
+
+Train_Health_16.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/phu-nu-ngay-nay-dong-quan-diem-tot-thoi-chua-du-88541.html
+
+Train_Health_12.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/thuc-pham-tot-cho-tri-nao-tre-506334.html
+
+Train_Health_13.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/7-dieu-me-nen-biet-ve-ho-o-tre-517034.html
+
+Train_Health_11.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/nhung-nguy-hai-cua-viec-mat-ngu-270669.html
+
+Train_Health_10.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/benh-vien-rang-ham-mat-mua-may-hut-mo-bung-462566.html
+
+Train_Law_21.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/huyen-nhu-lanh-an-chung-than-265233.html
+
+Train_Law_35.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/tuyen-an-tu-hinh-ke-hiep-dam-roi-giet-nan-nhan-vi-so-bao-cong-an-514142.html
+
+Train_Law_34.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/mat-trom-15-ti-dong-truoc-ngan-hang-517601.html
+
+Train_Law_20.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/nup-bong-choi-ga-truyen-thong-de-danh-bac-265821.html
+
+Train_Law_36.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/giet-ba-noi-lanh-12-nam-tu-511998.html
+
+Train_Law_22.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/huyen-nhu-lanh-an-chung-than-265233.html
+
+Train_Law_23.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/van-giu-nguyen-3-muc-danh-gia-tin-nhiem-tai-quoc-hoi-264357.html
+
+Train_Law_37.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bi-giet-vi-che-pho-qua-dat-512330.html
+
+Train_Law_33.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/y-an-ke-tat-a-xit-gay-chet-nguoi-264195.html
+
+Train_Law_27.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/ruoc-trom-ve-nha-515772.html
+
+Train_Law_26.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/700-nguoi-tap-trung-cong-thue-go-lau-qua-bien-gioi-266706.html
+
+Train_Law_32.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bat-khan-cap-2-yeu-rau-xanh-hiep-dam-nu-cong-nhan-264282.html
+
+Train_Law_18.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/de-nghi-truy-to-2-nguoi-gia-danh-can-bo-moi-truong-lua-dao-444835.html
+
+Train_Law_24.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/vien-ksnd-de-nghi-3-an-tu-hinh-trong-vu-alc-ii-454592.html
+
+Train_Law_30.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/chuyen-vien-bo-noi-vu-chui-canh-sat-bi-phat-125-trieu-dong-517915.html
+
+Train_Law_31.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/chuyen-vien-bo-noi-vu-chui-canh-sat-bi-phat-125-trieu-dong-517915.html
+
+Train_Law_25.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/ket-thuc-phien-toa-xet-xu-duong-day-dua-duong-chi-dung-chay-tron-khoi-to-vu-an-lam-lo-thong-tin-tuyet-mat-265355.html
+
+Train_Law_19.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/ke-cuong-dam-gay-ra-7-vu-cuop-hiep-dam-trong-mot-thang-452993.html
+
+Train_Law_8.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/ba-nhan-vien-bien-thu-tien-cua-china-airlines-lanh-an-460814.html
+
+Train_Law_9.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/xet-xu-phuc-tham-dai-an-huynh-thi-huyen-nhu-phat-hien-sai-pham-trong-viec-tat-toan-voi-vang-518770.html
+
+Train_Law_4.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/kiem-diem-thay-bua-truoc-dan-264913.html
+
+Train_Law_5.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/lua-ban-the-chap-mot-manh-dat-cho-nhieu-nguoi-86018.html
+
+Train_Law_7.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/xet-xu-dai-an-tham-nhung-tai-vdb-dak-lak-dak-nong-86765.html
+
+Train_Law_6.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/moi-bia-giao-luu-thanh-an-mang-18740.html
+
+Train_Law_2.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/rung-phong-ho-song-luy-bi-triet-ha-518241.html
+
+Train_Law_3.raw	// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bi-hai-doi-vietinbank-boi-thuong-518143.html
+
+Train_Law_1.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/cong-an-vao-cuoc-vu-thai-nhi-bi-bo-trong-ky-tuc-xa-268186.html
+
+Train_Law_0.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bi-ngan-cam-tinh-cam-giet-chau-nguoi-yeu-de-tra-thu-455007.html
+
+Train_Law_14.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/giet-chu-re-vi-ghen-lanh-an-20-nam-tu-42750.html
+
+Train_Law_28.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/3-nam-tu-cho-ga-hang-xom-dam-o-512792.html
+
+Train_Law_29.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/giet-nguoi-vi-tinh-gia-tang-443524.html
+
+Train_Law_15.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/vu-34-bi-cao-bi-de-nghi-an-tu-hinh-khong-the-ap-dung-tinh-tiet-giam-nhe-265300.html
+
+Train_Law_17.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/mot-co-giao-bi-tong-tinh-bang-clip-sex-517664.html
+
+Train_Law_16.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/huyen-nhu-lanh-an-chung-than-265233.html
+
+Train_Law_12.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/lanh-an-vi-phat-tan-anh-nong-cua-nguoi-tinh-87167.html
+
+Train_Law_13.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/truy-to-duong-day-buon-lau-xang-dau-cuc-lon-o-mien-trung-265183.html
+
+Train_Law_39.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/nop-phat-vi-pham-vao-tai-khoan-kho-bac-265175.html
+
+Train_Law_11.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/rut-ruot-container-lanh-11-nam-tu-5829.html
+
+Train_Law_10.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bat-giu-kho-hang-lau-khoang-45-ti-dong-518743.html
+
+Train_Law_38.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bi-giet-vi-che-pho-qua-dat-512330.html
+
+Train_Economic_12.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/tien-loi-su-dung-ngan-hang-dien-tu-464919.html
+
+Train_Economic_13.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/cac-hang-hang-khong-viet-nam-dang-can-nhac-giam-gia-ve-517584.html
+
+Train_Economic_11.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/gia-vang-con-4395-trieu-dongluong-36892.html
+
+Train_Economic_10.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/bat-dong-san-lam-dung-von-ngan-han-512686.html
+
+Train_Economic_14.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/von-dong-tau-vo-sat-chua-chay-507352.html
+
+Train_Economic_15.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/xuat-khau-gao-campuchia-dat-nhieu-buoc-tien-9734.html
+
+Train_Economic_17.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/kho-hut-von-dau-tu-nuoc-ngoai-vao-giao-thong-516147.html
+
+Train_Economic_16.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/nhung-dai-gia-tu-he-pho-le-cong-kieu-ky-2-phu-thuy-cua-chiec-may-anh-450084.html
+
+Train_Economic_4.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/tu-tao-co-hoi-ky-29-co-nhu-cau-la-che-tao-385301.html
+
+Train_Economic_5.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/ganh-nang-no-cong-518113.html
+
+Train_Economic_7.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/giam-long-no-xau-505383.html
+
+Train_Economic_6.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/hai-san-cung-giam-vnindex-mat-moc-520-diem-517992.html
+
+Train_Economic_2.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/metro-von-tang-phi-ma-tien-do-rua-bo-453117.html
+
+Train_Economic_3.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/samsung-dau-tu-du-an-14-ti-usd-tai-tphcm-452746.html
+
+Train_Economic_1.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/tu-tao-co-hoi-ky-53-trong-buoi-dien-tren-vung-dat-can-449417.html
+
+Train_Economic_0.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/co-hoi-lon-xuat-khau-vao-nga-450418.html
+
+Train_Economic_8.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/bi-rut-ngan-thoi-gian-thue-gian-hang-tieu-thuong-an-dong-plaza-phan-ung-451298.html
+
+Train_Economic_9.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/capitaland-va-ascott-ky-niem-20-nam-hoat-dong-tai-viet-nam-519253.html
+
+Train_Economic_18.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/bao-dong-nan-trom-dien-o-lam-dong-513802.html
+
+Train_Economic_19.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/nga-re-nao-cho-viet-nam-454345.html
+
+Train_Economic_21.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/du-kieu-lua-qua-the-ngan-hang-9053.html
+
+Train_Economic_20.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/dau-tu-vao-cuba-518425.html
+
+Train_Economic_22.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/chung-khoan-tang-diem-phien-thu-tu-lien-tiep-514132.html
+
+Train_Education_23.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/doi-moi-chuong-trinh-sach-giao-khoa-cach-lam-cu-kho-ra-ket-qua-moi-460563.html
+
+Train_Education_22.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/xep-hinh-ban-do-viet-nam-huong-ve-bien-dong-79761.html
+
+Train_Education_9.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hoc-phi-dai-hoc-tang-vot-ky-2-can-co-quy-cho-vay-von-dai-han-465668.html
+
+Train_Education_20.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/bieu-duong-hai-hoc-sinh-tra-lai-cua-roi-509655.html
+
+Train_Education_21.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/nganh-cong-nghe-thuc-phamsinh-hoc-truong-dh-dong-a-lam-sao-de-100-sv-ra-truong-co-viec-lam-501966.html
+
+Train_Education_8.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/15-nam-tu-van-mua-thi-giai-dap-nhung-thac-mac-cu-the-376274.html
+
+Train_Education_19.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hoc-phi-dai-hoc-tang-vot-ky-2-can-co-quy-cho-vay-von-dai-han-465668.html
+
+Train_Education_25.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/truong-hoc-qua-tai-vi-nam-vang-225933.html
+
+Train_Education_24.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/nhung-con-robot-tu-nha-truong-507997.html
+
+Train_Education_18.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/huong-nghiep-sang-tao-giup-thanh-nien-tiep-can-viec-lam-515610.html
+
+Train_Education_3.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/nen-giao-ngay-viec-in-phoi-bang-cho-cac-truong-515326.html
+
+Train_Education_16.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/de-thi-yeu-cau-hoc-sinh-vao-vai-lanh-dao-nha-nuoc-517502.html
+
+Train_Education_17.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/thay-doi-lon-trong-de-thi-tot-nghiep-thpt-83795.html
+
+Train_Education_2.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/khach-san-nha-nghi-dong-loat-vao-mua-chat-chem-thi-sinh-24324.html
+
+Train_Education_0.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/cong-nghe-khong-chi-la-may-tinh-va-mang-tao-moi-truong-hoc-tap-ket-noi-518090.html
+
+Train_Education_15.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/phuong-phap-moi-giup-nguoi-viet-noi-gioi-tieng-anh-517736.html
+
+Train_Education_14.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/xu-ly-nghiem-khac-cac-vi-pham-trong-giao-duc-36076.html
+
+Train_Education_1.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hop-phap-hoa-truong-dh-khong-vi-loi-nhuan-516131.html
+
+Train_Education_5.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/cung-con-chien-thang-tu-ky-509782.html
+
+Train_Education_10.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/nha-tho-tran-dang-khoa-cuoc-thi-khep-lai-chan-troi-mo-ra-18011.html
+
+Train_Education_11.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/dai-hoc-hoc-dai-ky-2-dao-tao-khong-dap-ung-nhu-cau-xa-hoi-79662.html
+
+Train_Education_4.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/bo-truong-gddt-khong-biet-chac-co-bao-nhieu-bo-sach-giao-khoa-508804.html
+
+Train_Education_6.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/xu-the-chon-nghe-cua-hoc-sinh-518051.html
+
+Train_Education_13.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/ai-cung-thay-vui-235359.html
+
+Train_Education_12.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/thi-de-lam-gi-ky-2-khi-diem-so-khong-con-gia-tri-435892.html
+
+Train_Education_7.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hon-1000-hoc-sinh-xep-hinh-ban-do-viet-nam-517294.html
+
+Train_Entertainment_18.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/nhung-ky-luc-viet-nam-ky-4-hop-xuong-khung-tu-nhung-truyen-tho-co-518092.html
+
+Train_Entertainment_24.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/dao-dien-quentin-tarantino-len-ke-hoach-nghi-huu-509175.html
+
+Train_Entertainment_2.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/hoi-an-my-son-can-co-che-dac-thu-518082.html
+
+Train_Entertainment_3.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/rihanna-cung-hat-nhep-30025.html
+
+Train_Entertainment_25.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/ho-ngoc-ha-tham-gia-ngoi-sao-am-nhac-chau-a-20246.html
+
+Train_Entertainment_19.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/trien-lam-tranh-ca-nhan-cua-tuoi-tho-453453.html
+
+Train_Entertainment_27.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/da-nu-ngo-thanh-van-dong-phim-hai-517587.html
+
+Train_Entertainment_1.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/luong-trieu-vy-duoc-moi-lam-giam-khao-lhp-berlin-2014-5305.html
+
+Train_Entertainment_0.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/nha-van-bui-ngoc-tan-qua-doi-518194.html
+
+Train_Entertainment_26.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/khi-tuoi-tho-duong-nhu-bien-mat-moi-ngay-mot-it-519487.html
+
+Train_Entertainment_22.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/charlie-nguyen-that-bat-cong-cho-bo-phim-khi-khan-gia-xem-mot-ban-nhap-23145.html
+
+Train_Entertainment_4.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/tim-thay-nhieu-tuong-quy-o-chua-hoang-phuc-515777.html
+
+Train_Entertainment_5.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/hoa-hau-ngoc-han-bi-ket-o-dao-ly-son-vi-bao-so-5-515824.html
+
+Train_Entertainment_23.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/cho-doi-dau-an-moi-tu-duyen-dang-viet-nam-26-356996.html
+
+Train_Entertainment_21.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/phuong-thao-ngoc-le-ve-hat-trong-nuoc-255359.html
+
+Train_Entertainment_7.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/nhung-mien-dat-huyen-su-ky-4-thien-y-a-na-va-tuy-tuong-bach-ho-452538.html
+
+Train_Entertainment_6.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/ngoi-sao-nhi-ngay-ay-bay-gio-ky-5-co-be-hat-cung-michael-jackson-514210.html
+
+Train_Entertainment_20.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/tap-chi-my-ca-ngoi-mon-cao-lau-hoi-an-455609.html
+
+Train_Entertainment_11.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/chinh-phuc-dinh-cao-bat-ngo-voi-nathan-lee-va-ho-trung-dung-6798.html
+
+Train_Entertainment_10.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/chat-van-ve-de-an-10800-ti-dong-xay-nha-hat-rap-chieu-phim-31368.html
+
+Train_Entertainment_12.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/huyen-bi-phong-nha-ke-bang-ky-2-me-cung-phong-nha-436772.html
+
+Train_Entertainment_8.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/oscar-2015-hy-vong-vao-angelina-jolie-512063.html
+
+Train_Entertainment_9.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/sao-phim-o-nha-mot-minh-lai-bi-don-qua-doi-508475.html
+
+Train_Entertainment_13.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/giam-khao-linh-cam-ve-quan-quan-vietnam-idol-86892.html
+
+Train_Entertainment_17.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/noi-long-chuyen-gioi-ky-hop-dong-sinh-tu-448877.html
+
+Train_Entertainment_16.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/guong-mat-than-quen-nhi-co-be-han-quoc-ju-uyen-nhi-toa-sang-466627.html
+
+Train_Entertainment_14.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/phien-toa-tac-quyen-chua-co-tien-le-448451.html
+
+Train_Entertainment_28.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/khoe-ban-trai-chau-tan-chuan-bi-lay-chong-80336.html
+
+Train_Entertainment_15.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/quan-quan-american-idol-bi-doi-no-22903.html
+
+Train_Science_14.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/la-bella-principessa-nguoi-dep-hay-ke-xau-xi-511559.html
+
+Train_Science_28.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/thuy-quai-nessie-lai-day-song-ho-loch-ness-379547.html
+
+Train_Science_29.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/but-ve-ky-thuat-so-761.html
+
+Train_Science_15.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-moi-ve-su-tien-hoa-cua-ngon-ngu-29300.html
+
+Train_Science_17.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/hinh-anh-chi-tiet-ve-sao-hoa-262914.html
+
+Train_Science_16.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nhien-lieu-moi-tu-rom-ra-77867.html
+
+Train_Science_12.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ky-luc-chuyen-doi-quang-nang-515201.html
+
+Train_Science_13.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-4-loai-sinh-vat-bien-moi-6735.html
+
+Train_Science_39.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/thu-khi-thai-tu-bo-82446.html
+
+Train_Science_11.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/mau-trong-cu-cai-duong-511805.html
+
+Train_Science_10.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/cua-so-quang-nang-447636.html
+
+Train_Science_38.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nga-chi-21-ti-usd-cai-to-nganh-cong-nghiep-vu-tru-463577.html
+
+Train_Science_6.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ky-thuat-moi-hua-hen-pha-an-nhanh-1408.html
+
+Train_Science_7.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/loai-khung-long-co-sung-co-xua-nhat-o-bac-my-515686.html
+
+Train_Science_5.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ba-lo-phan-luc-4-phutdam-453227.html
+
+Train_Science_4.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/mot-gram-nghe-moi-ngay-giup-tang-cuong-tri-nho-511427.html
+
+Train_Science_0.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/giai-nobel-qua-nhung-con-so-484343.html
+
+Train_Science_1.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/kham-pha-bi-mat-cua-dong-ho-sinh-hoc-454153.html
+
+Train_Science_3.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/cuoc-tan-sat-tren-sao-hoa-511839.html
+
+Train_Science_2.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/giai-ma-tieng-set-ai-tinh-373568.html
+
+Train_Science_40.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-loai-ca-tre-moi-262050.html
+
+Train_Science_9.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/khung-long-biet-boi-chuyen-san-ca-map-453062.html
+
+Train_Science_8.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/gia-thuyet-trai-dat-cuop-mat-trang-tu-sao-kim-14118.html
+
+Train_Science_35.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nghien-cuu-tham-sinh-thai-tu-tranh-ai-cap-co-452716.html
+
+Train_Science_21.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/tranh-cai-ve-tri-tue-nhan-tao-huy-diet-nhan-loai-514668.html
+
+Train_Science_20.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ba-nam-nua-co-thuoc-ngua-thai-cho-nam-gioi-452694.html
+
+Train_Science_34.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/giai-nobel-qua-nhung-con-so-484343.html
+
+Train_Science_22.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-loai-ca-tre-moi-262050.html
+
+Train_Science_36.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-loai-than-lan-bay-moi-446579.html
+
+Train_Science_37.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nga-chi-21-ti-usd-cai-to-nganh-cong-nghiep-vu-tru-463577.html
+
+Train_Science_23.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/kinh-sat-trong-thay-man-hinh-video-511288.html
+
+Train_Science_27.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/sinh-ra-da-co-doc-512369.html
+
+Train_Science_33.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/ao-cho-sieu-chien-binh-22263.html
+
+Train_Science_32.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phat-hien-sinh-vat-ky-la-tai-new-guinea-400960.html
+
+Train_Science_26.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/kham-pha-bi-an-khang-sot-ret-cua-tre-em-tanzania-378968.html
+
+Train_Science_18.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/apple-watch-gay-tu-suong-vao-top-25-phat-minh-hay-nhat-nam-2014-511560.html
+
+Train_Science_30.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/phong-thu-thien-thach-khong-de-39094.html
+
+Train_Science_24.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nguoi-mo-duong-cho-du-hanh-khong-gian-314989.html
+
+Train_Science_25.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/trung-va-suc-khoe-phu-nu-508203.html
+
+Train_Science_31.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/thiet-bi-cay-ghep-nao-co-ich-cho-benh-nhan-parkinson-463368.html
+
+Train_Science_19.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/loai-bo-sat-truoc-nguy-co-tuyet-chung-39096.html
+
+Train_World_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/my-dieu-600-binh-si-den-ba-lan-va-cac-nuoc-baltic-353861.html
+
+Train_World_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/eu-mua-dam-la-pham-toi-nhung-ban-dam-lai-hop-phap-360408.html
+
+Train_World_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/phien-dich-vien-cho-ong-obama-tai-le-tang-mandela-bi-to-bia-dat-8476.html
+
+Train_World_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/my-cuba-cung-tuyen-bo-binh-thuong-hoa-quan-he-518129.html
+
+Train_World_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/campuchia-bat-4-nghi-can-am-muu-lat-do-471290.html
+
+Train_World_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/tay-ban-nha-cach-ly-them-7-nguoi-nghi-nhiem-ebola-501988.html
+
+Train_World_7.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/trieu-tien-de-xuat-hoi-dam-cap-cao-voi-my-473412.html
+
+Train_World_6.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/lhq-du-bang-chung-ket-luan-kim-jongun-vi-pham-nhan-quyen-509214.html
+
+Train_World_22.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/cuu-tong-thong-lien-xo-gorbachev-canh-bao-chien-tranh-lanh-508246.html
+
+Train_World_23.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/philippines-phat-tu-hai-si-quan-am-muu-dao-chinh-35240.html
+
+Train_World_21.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/danh-bom-lieu-chet-o-afghanistan-12-nguoi-chet-518128.html
+
+Train_World_20.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/vu-may-bay-dai-loan-roi-co-the-thoi-tiet-khong-phai-la-nguyen-nhan-398373.html
+
+Train_World_24.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/thu-tuong-uc-canh-bao-tong-thong-putin-khong-duoc-tranh-mat-507700.html
+
+Train_World_30.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/6-cau-hoi-lon-sau-vu-khong-che-con-tin-o-uc-517995.html
+
+Train_World_18.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/putin-cao-buoc-my-gay-mat-can-bang-trat-tu-the-gioi-518461.html
+
+Train_World_19.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/isil-am-muu-tan-cong-khung-bo-nuoc-my-nhu-kieu-119-348784.html
+
+Train_World_31.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/no-le-cua-is-giet-nhau-de-thoat-canh-cuong-hiep-519623.html
+
+Train_World_25.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/my-tinh-ke-tri-trung-quoc-tai-bien-dong-261629.html
+
+Train_World_33.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/trung-quoc-yeu-cau-quan-chuc-ngung-hoc-thac-si-518655.html
+
+Train_World_27.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/danh-bom-lieu-chet-o-afghanistan-12-nguoi-chet-518128.html
+
+Train_World_26.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/de-nghi-che-thuoc-tri-ebola-tu-mau-nguoi-benh-song-sot-508116.html
+
+Train_World_32.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/chan-may-bay-cho-thieu-nu-anh-gia-nhap-is-518173.html
+
+Train_World_17.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/my-mo-duong-bai-bo-cam-van-cho-nga-517859.html
+
+Train_World_16.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/ca-tram-ngan-nguoi-bieu-tinh-chiem-bangkok-363618.html
+
+Train_World_28.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/phap-dieu-chien-dau-co-lung-tim-may-bay-algeria-362201.html
+
+Train_World_14.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/video-hai-chi-em-an-do-danh-yeu-rau-xanh-gay-sot-513496.html
+
+Train_World_15.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/asean-va-nhung-muc-tieu-lon-lao-24207.html
+
+Train_World_29.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/nhat-philippines-tang-cuong-hop-tac-song-phuong-477803.html
+
+Train_World_11.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/cuba-my-bat-dau-dam-phan-binh-thuong-hoa-quan-he-518080.html
+
+Train_World_10.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/trung-quoc-trang-bi-sung-gay-bong-cho-tau-tuan-tra-bien-dong-518023.html
+
+Train_World_12.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/nga-muon-ukraine-cai-cach-hien-phap-517706.html
+
+Train_World_13.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/uber-bat-ngo-tang-gia-trong-vu-khong-che-con-tin-o-sydney-517602.html
+
+Train_World_8.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/chiec-binh-tru-ta-ma-co-tu-330-nam-truoc-504426.html
+
+Train_World_9.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/4-ly-do-taliban-tham-sat-tai-truong-hoc-pakistan-517849.html
+
+Train_Life_8.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/kham-kha-nho-co-dien-509382.html
+
+Train_Life_9.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nguoi-viet-dang-rat-xau-445405.html
+
+Train_Life_19.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nang-cao-hieu-suat-lam-viec-cho-phu-nu-ban-ron-511431.html
+
+Train_Life_18.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/cuoc-tinh-minh-hac-xuong-mai-447516.html
+
+Train_Life_20.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/dua-be-la-gi-sau-toi-ac-hiep-dam-ky-3-khi-ong-noi-lam-ac-tinh-cha-tinh-con-272342.html
+
+Train_Life_21.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/truot-oan-cap-3-vi-nha-truong-tac-trach-441587.html
+
+Train_Life_1.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nhung-phien-dich-vien-dac-biet-cua-viettel-83591.html
+
+Train_Life_13.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nguyen-nhan-gay-dau-kho-o-nhung-nguoi-that-tinh-505660.html
+
+Train_Life_12.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/ky-su-trung-quoc-tron-ho-o-cong-truong-394962.html
+
+Train_Life_0.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/7-cach-giup-giam-nguy-co-ung-thu-vu-518177.html
+
+Train_Life_2.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nhung-ky-luc-viet-nam-ky-1-nguoi-so-huu-mot-nui-tien-co-517130.html
+
+Train_Life_10.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/an-toan-luoi-dien-o-vung-sau-krong-buk-454731.html
+
+Train_Life_11.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/ca-phe-hau-dong-dat-khach-507202.html
+
+Train_Life_3.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/chuong-trinh-tet-tron-tung-giay-mong-doi-tung-ngay-88842.html
+
+Train_Life_7.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/cuu-nhieu-thuyen-vien-ngu-dan-bi-chim-tau-519009.html
+
+Train_Life_15.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/thoat-ngheo-tu-4-goc-thien-ly-517568.html
+
+Train_Life_14.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/gio-trai-dat-xanh-2014-va-thong-diep-tiet-kiem-dien-85373.html
+
+Train_Life_6.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/banh-nhan-nam-dinh-39665.html
+
+Train_Life_4.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/thuc-pham-lam-dep-cho-da-262296.html
+
+Train_Life_16.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/do-choi-tinh-duc-trong-cuoc-tron-chay-ky-7-di-dung-duong-chu-dung-leo-tuong-453526.html
+
+Train_Life_17.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/37-tuoi-sinh-10-con-13412.html
+
+Train_Life_5.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/sap-ham-thuy-dien-da-dangda-chomo-co-gang-an-mot-to-com-cho-mau-khoe-518878.html
+
+Train_Military_26.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/dam-phan-hat-nhan-iran-buoc-sang-ngay-thu-hai-443283.html
+
+Train_Military_27.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tau-ngam-hat-nhan-moi-cua-nga-trang-bi-robot-chien-dau-517630.html
+
+Train_Military_25.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/dai-tuong-martin-dempsey-hop-bao-tai-tphcm-446680.html
+
+Train_Military_19.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/neu-my-tan-cong-syria-hau-qua-gi-co-the-xay-ra-16951.html
+
+Train_Military_18.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/iran-nga-dang-co-dan-xep-hop-dong-s300-13625.html
+
+Train_Military_24.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/isil-tuyen-bo-thanh-lap-nha-nuoc-hoi-giao-o-trung-dong-336613.html
+
+Train_Military_20.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/canada-gui-quan-canh-giup-ukraine-bao-ve-chu-quyen-515226.html
+
+Train_Military_21.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/nhat-ban-the-gioi-quan-ngai-vi-trung-quoc-tang-ngan-sach-quoc-phong-87315.html
+
+Train_Military_23.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tong-thong-my-lap-danh-sach-cac-muc-tieu-tan-cong-mang-26557.html
+
+Train_Military_8.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/bloomberg-chon-bien-dong-la-diem-nong-the-gioi-nam-2015-518026.html
+
+Train_Military_9.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/trung-quoc-se-khong-can-thiep-neu-trieu-tien-sup-do-513704.html
+
+Train_Military_22.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/han-quoc-giam-binh-si-tang-si-quan-338915.html
+
+Train_Military_13.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/uy-ban-doi-ngoai-thuong-vien-my-canh-cao-trung-quoc-ve-bien-dong-462103.html
+
+Train_Military_4.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/an-do-quan-ngai-tau-ngam-trung-quoc-den-sri-lanka-507009.html
+
+Train_Military_5.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/can-canh-tau-cuu-ho-usns-safeguard-cua-hai-quan-my-338153.html
+
+Train_Military_12.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tu-lenh-ham-doi-my-o-thai-binh-duong-trung-quoc-rat-nguy-hiem-83546.html
+
+Train_Military_10.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/my-do-vu-khi-vao-an-do-21284.html
+
+Train_Military_7.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/quan-doi-thoi-binh-cang-can-manh-519239.html
+
+Train_Military_6.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/may-bay-khong-nguoi-lai-se-phuc-vu-hai-quan-my-487657.html
+
+Train_Military_11.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tuong-my-tiem-kich-trung-quoc-thuong-xuyen-thach-thuc-may-bay-my-78021.html
+
+Train_Military_29.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/ukraine-tang-gap-doi-ngan-sach-quoc-phong-nam-2015-516105.html
+
+Train_Military_15.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/hai-quan-my-bat-dau-su-dung-vu-khi-laser-2943.html
+
+Train_Military_2.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/nhung-may-bay-tau-thuyen-nao-dang-tim-kiem-mh370-338462.html
+
+Train_Military_3.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/my-chuan-bi-ban-4000-ten-lua-cho-iraq-226369.html
+
+Train_Military_14.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tau-rolldock-star-den-stpetersburg-don-tau-ngam-hai-phong-515214.html
+
+Train_Military_28.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/my-nhat-tuyen-bo-khong-cong-nhan-vung-phong-khong-cua-trung-quoc-443189.html
+
+Train_Military_16.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/tu-lenh-hai-quan-iran-doa-huy-diet-tau-chien-giet-linh-my-3730.html
+
+Train_Military_1.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/can-cu-khong-quan-my-o-han-quoc-bat-ngo-dong-cua-513398.html
+
+Train_Military_0.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/bi-mat-chien-thang-dien-bien-phu-ky-2-tai-mat-tuong-giap-phu-tran-dia-337731.html
+
+Train_Military_17.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/trung-quoc-ngan-nhung-thu-vu-khi-gi-cua-nhat-ban-336631.html
+
+Train_Sports_9.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141218/my-nhan-lam-chao-dao-cau-truong-moi-tinh-ngoai-luong-cua-maradona.aspx
+
+Train_Sports_8.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130403/viet-nam-va-singapore-la-chu-nha-cua-aff-cup-2014.aspx
+
+Train_Sports_21.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130701/diem-tin-bong-da-sang-1-7-2013.aspx
+
+Train_Sports_20.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141116/van-ngoc-tu-gianh-hcv-abg-4.aspx
+
+Train_Sports_22.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140725/3-tran-dau-khac-cua-dong-nai-co-mui.aspx
+
+Train_Sports_23.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140402/m-u-1-1-bayern-munich-diem-sang-cho-david-moyes.aspx
+
+Train_Sports_27.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140926/hlv-van-gaal-huan-luyen-mu-la-cong-viec-kho-nhat-cua-toi.aspx
+
+Train_Sports_26.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141211/viet-nam-se-don-nga-malaysia-voi-loi-choi-quyen-ru.aspx
+
+Train_Sports_18.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140910/vo-wayne-bridge-doi-dau-vo-crouch.aspx
+
+Train_Sports_24.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130815/xuan-thanh-sai-gon-nhan-khuyet-diem.aspx
+
+Train_Sports_25.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20131106/ban-gai-cu-cua-ronaldo-danh-nhau-voi-sao-chuyen-dong-phim-nguoi-lon.aspx
+
+Train_Sports_19.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140909/mai-tram-buoc-nhay-quyen-ru-giong-noi-chet-nguoi.aspx
+
+Train_Sports_14.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141020/manny-pacquiao-lan-dau-lam-cau-thu-bong-ro.aspx
+
+Train_Sports_28.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141218/klopp-dortmund-van-con-duong-song.aspx
+
+Train_Sports_15.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140730/cha-cua-tevez-may-man-thoat-chet-sau-vu-bat-coc.aspx
+
+Train_Sports_17.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130721/cong-vinh-tien-gan-top-100-v-league.aspx
+
+Train_Sports_16.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130423/y-gap-nga-trong-tran-chung-ket-fed-cup-2013.aspx
+
+Train_Sports_12.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130724/fan-slna-va-hagl-khau-chien-tren-facebook.aspx
+
+Train_Sports_13.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130116/bothroyd-dua-qpr-vao-vong-4-cup-fa.aspx
+
+Train_Sports_11.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141124/mancini-va-inzaghi-bat-phan-thang-bai-o-tran-derby-dau-tien.aspx
+
+Train_Sports_10.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141218/ong-vuong-bich-thang-thanh-tich-ao-van-con.aspx
+
+Train_Sports_3.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140105/trao-giai-sea-games-2013-huong-den-world-cup-2014.aspx
+
+Train_Sports_2.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20110907/tan-binh-dau-voi-chu-nha.aspx
+
+Train_Sports_0.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140226/pakistan-chon-da-lat-lam-san-nha-davis-cup.aspx
+
+Train_Sports_1.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130120/silva-toa-sang-man-city-tao-ap-luc-len-m-u.aspx
+
+Train_Sports_5.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140320/serie-a-tinh-dung-my-nhan-ke-de-hut-khach.aspx
+
+Train_Sports_4.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141216/ong-miura-co-dam-hy-sinh-lua-cong-phuong.aspx
+
+Train_Sports_6.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140808/u19-viet-nam-tap-sung-de-chuan-bi-cho-tran-chien-voi-u21-singapore.aspx
+
+Train_Sports_7.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140806/vninh-binh-chuan-bi-thay-the-ngoai-binh.aspx
+
+Train_Politics_society_23.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/mot-hoc-sinh-tu-vong-nghi-bi-sat-hai-502431.html
+
+Train_Politics_society_9.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/cuc-nhu-song-o-mat-tien-ql1-ky-2-dan-can-thi-cong-chua-voi-447286.html
+
+Train_Politics_society_8.raw	// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/chay-4-can-nha-thiet-hai-hon-700-trieu-dong-518218.html
+
+Train_Politics_society_22.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/tiet-lo-moi-nhat-cua-ong-duong-ve-be-trai-bi-bo-roi-tren-taxi-514965.html
+
+Train_Politics_society_20.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/lam-ro-duong-day-in-ve-gia-giai-bong-da-u21-quoc-te-bao-thanh-nien-506276.html
+
+Train_Politics_society_21.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/ganh-nang-no-cong-518114.html
+
+Train_Politics_society_19.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/de-nghi-truy-to-giang-vien-chuyen-cung-cap-bang-y-bac-si-gia-457491.html
+
+Train_Politics_society_25.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/vu-nguoi-dan-nhot-chu-tich-xa-pho-chu-tich-huyen-bac-bo-chuyen-cong-an-danh-nguoi-5101.html
+
+Train_Politics_society_30.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/nghiem-thu-ky-thuat-tau-ten-lua-m3-m4-519236.html
+
+Train_Politics_society_24.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/da-khong-che-duoc-vu-chay-o-khu-cong-nghiep-quang-minh-503753.html
+
+Train_Politics_society_18.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/tao-ton-hiep-dam-em-vo-ngay-truoc-mat-me-vo-452150.html
+
+Train_Politics_society_26.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/mot-du-khach-nuoc-ngoai-bi-ca-dam-vao-co-khi-tam-bien-nha-trang-82925.html
+
+Train_Politics_society_27.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/nop-ran-quy-hiem-thi-khong-duoc-doi-lai-502732.html
+
+Train_Politics_society_16.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/de-xuat-2-loai-nghia-vu-quan-su-511069.html
+
+Train_Politics_society_0.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/mot-nguoi-dan-ong-de-lai-be-trai-9-tuoi-tren-cau-roi-nhay-xuong-song-517231.html
+
+Train_Politics_society_1.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/y-an-nhan-vien-ngan-hang-quoc-te-dom-517937.html
+
+Train_Politics_society_17.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/hoi-nghi-toan-quoc-ve-cong-tac-phong-chong-tham-nhung-405235.html
+
+Train_Politics_society_15.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/khoi-to-vu-danh-chet-nguoi-vi-nghi-trom-cho-501539.html
+
+Train_Politics_society_29.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/vuot-nguy-hiem-kho-khan-quyet-giu-bien-dong-402813.html
+
+Train_Politics_society_3.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/pho-thu-tuong-yeu-cau-dieu-tra-xu-ly-3-vu-tai-nan-xe-nghiem-trong-450849.html
+
+Train_Politics_society_2.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/co-can-cuoc-bo-khai-sinh-400261.html
+
+Train_Politics_society_28.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/mot-nguoi-di-duong-bi-dam-chet-chua-ro-nguyen-nhan-512722.html
+
+Train_Politics_society_14.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/ve-tau-tet-da-sot-513476.html
+
+Train_Politics_society_10.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/tiep-tuc-thanh-tra-benh-vien-chan-thuong-chinh-hinh-467810.html
+
+Train_Politics_society_6.raw	// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/vu-sap-ham-thuy-dien-da-dang-da-chomo-huy-dong-tong-luc-cuu-nan-518140.html
+
+Train_Politics_society_7.raw	// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bang-gia-phu-trang-nui-doi-sa-pa-518186.html
+
+Train_Politics_society_11.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bao-so-4-cam-ngu-dan-binh-dinh-phu-yen-khanh-hoa-ra-khoi-512959.html
+
+Train_Politics_society_13.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/tau-cho-dau-no-khi-dang-chua-5000-lit-dau-448642.html
+
+Train_Politics_society_5.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/ngan-hang-the-gioi-khuyen-nghi-khong-nen-han-che-xe-may-510274.html
+
+Train_Politics_society_4.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/nho-anh-vinh-linh-lang-nghe-noi-buon-428303.html
+
+Train_Politics_society_12.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/tang-thu-vien-sach-ao-am-cho-hoc-sinh-ngheo-o-dak-nong-518142.html
+
+Train_Information_technology_6.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/ipad-bi-e-512279.html
+
+Train_Information_technology_7.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/cha-de-world-wide-web-chi-trich-tong-thong-putin-515992.html
+
+Train_Information_technology_5.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/facebook-tren-blackberry-co-phien-ban-moi-19793.html
+
+Train_Information_technology_4.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/trang-mang-xa-hoi-sqeeqeecom-tuyen-dung-ceo-quoc-te-khoi-dong-chien-dich-tren-truyen-hinh-quoc-gia-bao-gom-ca-mtv-10111.html
+
+Train_Information_technology_0.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/google-khoe-xe-tu-hanh-sap-chay-thu-nghiem-519558.html
+
+Train_Information_technology_1.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/hoan-chieu-phim-kim-jongun-vi-de-doa-khung-bo-nhu-119-517956.html
+
+Train_Information_technology_3.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/lenovo-cong-bo-vibe-x2-voi-gia-849-trieu-dong-511067.html
+
+Train_Information_technology_2.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/ma-doc-nham-vao-android-se-tang-trong-nam-2015-516086.html
+
+Train_Information_technology_17.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/nang-cap-mien-phi-thanh-nien-mobile-phien-ban-moi-519260.html
+
+Train_Information_technology_16.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/google-translate-tren-ios-ho-tro-phien-dich-chu-viet-tay-14908.html
+
+Train_Information_technology_28.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/mozilla-tung-firefox-34-dung-yahoo-search-513768.html
+
+Train_Information_technology_14.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/ra-mat-oppo-n3-voi-camera-xoay-tu-dong-gia-hon-136-trieu-dong-506029.html
+
+Train_Information_technology_15.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/htc-desire-eye-bat-ngo-xuat-hien-tai-viet-nam-502039.html
+
+Train_Information_technology_29.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/sony-sap-chia-tay-vaio-3171.html
+
+Train_Information_technology_11.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/gop-hui-online-de-can-trai-ot-516915.html
+
+Train_Information_technology_39.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/oppo-n1-ra-mat-voi-thiet-ke-camera-doc-dao-14731.html
+
+Train_Information_technology_38.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/bi-lua-khi-kinh-doanh-tren-mang-9883.html
+
+Train_Information_technology_10.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/nexus-9-se-duoc-cong-bo-tai-google-io-2014-77696.html
+
+Train_Information_technology_12.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/tin-tac-gui-email-de-doa-nhan-vien-sony-514567.html
+
+Train_Information_technology_13.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/thi-truong-smartphone-bao-hoa-loi-nhuan-samsung-tuot-doc-501318.html
+
+Train_Information_technology_36.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/apple-trang-bi-gioi-han-man-hinh-sapphire-cho-iphone-6-263634.html
+
+Train_Information_technology_22.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/microsoft-lang-le-huy-bo-du-an-phat-trien-smartphone-3d-263820.html
+
+Train_Information_technology_23.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/camera-grip-duoc-tang-kem-khi-mua-lumia-1020-14996.html
+
+Train_Information_technology_37.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/tinh-tuong-tac-cua-android-wear-con-thap-226108.html
+
+Train_Information_technology_21.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/nokia-hop-tac-voi-samsung-de-day-manh-here-maps-450462.html
+
+Train_Information_technology_35.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/instagram-dat-moc-300-trieu-nguoi-dung-515762.html
+
+Train_Information_technology_34.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/sony-ra-mat-phien-ban-playstation-4-dac-biet-513943.html
+
+Train_Information_technology_20.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/nhon-nhip-thi-truong-smartphone-27643.html
+
+Train_Information_technology_24.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/smartphone-dau-tien-dung-pin-cong-90463.html
+
+Train_Information_technology_30.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/virus-doi-tien-chuoc-tan-cong-van-phong-canh-sat-my-509683.html
+
+Train_Information_technology_18.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/sieu-may-anh-galaxy-k-zoom-ban-tai-viet-nam-dau-thang-7-78858.html
+
+Train_Information_technology_19.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/x5-max-vuot-qua-r5-tro-thanh-smartphone-mong-nhat-the-gioi-515630.html
+
+Train_Information_technology_31.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/sony-pictures-bi-tin-tac-tan-cong-512193.html
+
+Train_Information_technology_25.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/cha-de-cua-flappy-bird-sap-tung-game-moi-447375.html
+
+Train_Information_technology_33.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/google-cong-bo-mau-may-tinh-bang-nexus-9-503241.html
+
+Train_Information_technology_27.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/oppo-trinh-lang-smartphone-neo-3-226353.html
+
+Train_Information_technology_26.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/tan-thien-long-ra-mat-landing-page-luong-long-nhat-the-512071.html
+
+Train_Information_technology_32.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/galaxy-note-3-loi-8-len-doi-android-44-4896.html
+
+Train_Information_technology_41.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/facebook-chi-19-ti-usd-mua-whatsapp-2910.html
+
+Train_Information_technology_40.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/apple-xac-nhan-loi-do-not-disturb-tren-ios-6-43806.html
+
+Train_Information_technology_42.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/dell-khuech-truong-mang-kinh-doanh-phan-mem-61312.html
+
+Train_Information_technology_9.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/lumia-930-cap-ben-thi-truong-viet-nam-77694.html
+
+Train_Information_technology_8.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/samsung-trinh-lang-smartphone-danh-rieng-cho-thi-truong-viet-nam-447942.html
+
+Train_Life_of_youth_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/ba-lo-lam-mat-lung-22467.html
+
+Train_Life_of_youth_12.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/vi-sao-thu-khoa-thuong-la-hoc-sinh-nong-thon-443770.html
+
+Train_Life_of_youth_13.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/yeu-nguoi-dep-kho-lam-12578.html
+
+Train_Life_of_youth_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/mua-cua-nguoi-chan-ban-cho-nguoi-can-13789.html
+
+Train_Life_of_youth_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/sau-mot-ngay-nick-vujicic-den-28364.html
+
+Train_Life_of_youth_11.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/duong-link-tri-thuc-viet-tren-dat-my-78018.html
+
+Train_Life_of_youth_10.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/mang-niem-vui-den-voi-nguoi-ngheo-514661.html
+
+Train_Life_of_youth_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/nhung-nguoi-bac-cau-tri-thuc-450439.html
+
+Train_Life_of_youth_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/con-cai-xa-cach-cha-me-ky-3-hay-cho-tre-lon-len-506094.html
+
+Train_Life_of_youth_14.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/mua-cot-trong-ngay-khai-giang-khien-trach-tro-ly-thanh-nien-451955.html
+
+Train_Life_of_youth_15.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/cay-game-thau-dem-o-lang-dai-hoc-450606.html
+
+Train_Life_of_youth_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/con-se-song-vi-co-hang-tram-ba-me-giua-doi-435287.html
+
+Train_Life_of_youth_6.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/cha-de-cua-flappy-bird-vao-danh-sach-trieu-phu-the-gioi-515691.html
+
+Train_Life_of_youth_16.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/nhay-de-ket-noi-39054.html
+
+Train_Life_of_youth_7.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/sua-may-tinh-voi-gia-5000-dong-508736.html
+
+Train_Life_of_youth_9.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/trom-cap-long-hanh-o-lang-dai-hoc-15438.html
+
+Train_Life_of_youth_8.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/xe-dap-oi-14775.html
+
+Train_Travel_11.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hoa-tam-giac-mach-hut-hon-du-khach-504484.html
+
+Train_Travel_10.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/nhat-ban-voi-xe-keo-va-pho-gion-450584.html
+
+Train_Travel_12.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/am-vang-deo-da-deo-451111.html
+
+Train_Travel_13.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/vung-dat-bi-an-86345.html
+
+Train_Travel_8.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/tour-du-lich-ra-dao-xa-hut-khach-502954.html
+
+Train_Travel_17.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/vietravel-nhan-giai-thuong-ttg-travel-awards-2014-466120.html
+
+Train_Travel_16.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/du-lich-dai-ngay-da-van-dep-81481.html
+
+Train_Travel_9.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hang-tau-bien-princess-cruises-mo-thi-truong-den-viet-nam-456688.html
+
+Train_Travel_14.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/mot-thoang-mandalay-36371.html
+
+Train_Travel_15.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/khach-den-vn-mot-lan-khong-mang-tro-lai-506759.html
+
+Train_Travel_7.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/lanh-dao-tinh-len-clip-511380.html
+
+Train_Travel_18.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/nhat-ban-voi-xe-keo-va-pho-gion-450584.html
+
+Train_Travel_19.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/xe-cho-khach-du-lich-vao-trung-tam-phai-co-giay-phep-con-508015.html
+
+Train_Travel_6.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/da-nang-tang-nguon-thu-tu-du-lich-517251.html
+
+Train_Travel_4.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hang-tau-bien-princess-cruises-mo-thi-truong-den-viet-nam-456688.html
+
+Train_Travel_5.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/du-lich-dai-ngay-da-van-dep-81481.html
+
+Train_Travel_1.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/du-lich-huy-diet-canh-quan-327623.html
+
+Train_Travel_0.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/luang-prabang-thanh-binh-506386.html
+
+Train_Travel_2.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/nhieu-co-hoi-phat-trien-hon-cho-du-lich-vn-514519.html
+
+Train_Travel_21.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/luang-prabang-thanh-binh-506386.html
+
+Train_Travel_20.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/bat-chet-du-khach-tai-cho-dem-da-lat-326983.html
+
+Train_Travel_3.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/khach-den-vn-mot-lan-khong-mang-tro-lai-506759.html
+
+Dev_Health_5.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/giup-toc-moc-nhanh-hon-512389.html
+
+Dev_Health_4.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/vu-deo-khan-tang-di-kien-benh-vien-lam-ro-trach-nhiem-tung-y-bac-si-345176.html
+
+Dev_Health_6.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/them-co-hoi-cho-benh-nhan-ghep-than-gan-82636.html
+
+Dev_Health_3.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/an-uong-khi-bi-u-xo-tu-cung-20946.html
+
+Dev_Health_2.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/hut-thuoc-huy-hoai-vi-giac-83214.html
+
+Dev_Health_0.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/cap-cuu-mot-nguoi-bi-chia-nhon-ghim-giua-tran-452185.html
+
+Dev_Health_1.raw	﻿// URL: http://www.thanhnien.com.vn/suc-khoe/vuot-con-dau-dai-dang-nho-nghe-nhac-11437.html
+
+Dev_Law_8.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/phat-hien-nhieu-vu-van-chuyen-tien-te-trai-phep-qua-bien-gioi-446846.html
+
+Dev_Law_6.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/khong-co-duong-su-van-tuyen-an-15538.html
+
+Dev_Law_7.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/giet-ba-noi-lanh-12-nam-tu-511998.html
+
+Dev_Law_5.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/khoi-to-vu-an-thu-ky-toa-nhan-tien-cua-duong-su-454841.html
+
+Dev_Law_4.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/nua-dem-dot-nhap-nha-ba-lao-77-tuoi-cuop-tai-san-465752.html
+
+Dev_Law_0.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bat-2-o-to-cho-hang-trung-quoc-nhap-lau-518252.html
+
+Dev_Law_1.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/bat-2-o-to-cho-hang-trung-quoc-nhap-lau-518252.html
+
+Dev_Law_3.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/hang-tram-canh-sat-tham-gia-pha-nghi-an-ma-tuy-518126.html
+
+Dev_Law_2.raw	﻿// URL: http://www.thanhnien.com.vn/phap-luat/triet-pha-duong-day-tieu-thu-hon-1-ti-dong-tien-gia-6408.html
+
+Dev_Economic_8.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/tphcm-kien-nghi-thu-tuong-go-kho-cho-du-an-metro-so-1-3061.html
+
+Dev_Economic_0.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/scic-tiep-tuc-thoai-von-toan-bo-tai-2-doanh-nghiep-lon-448268.html
+
+Dev_Economic_1.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/ban-hanh-bieu-gia-chuan-ve-suat-von-dau-tu-phan-xay-dung-cong-trinh-43982.html
+
+Dev_Economic_3.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/vinalines-gan-no-thanh-co-phan-cho-vietinbank-515079.html
+
+Dev_Economic_2.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/vietnam-airlines-ban-ve-may-bay-gia-re-tai-ite-2014-452615.html
+
+Dev_Economic_6.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/thi-truong-smartphone-tiep-tuc-tang-truong-manh-385491.html
+
+Dev_Economic_7.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/quang-nam-trien-khai-phan-phoi-xang-e5-som-2-thang-456151.html
+
+Dev_Economic_5.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/chung-khoan-lay-lai-sac-xanh-510819.html
+
+Dev_Economic_4.raw	﻿// URL: http://www.thanhnien.com.vn/kinh-te/ngan-hang-ngai-cong-bo-thong-tin-ve-an-toan-the-8903.html
+
+Dev_Education_4.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/sinh-vien-duy-tan-doat-giai-ba-cuoc-thi-an-toan-thong-tin-514526.html
+
+Dev_Education_5.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/rac-roi-kham-chua-benh-bao-hiem-y-te-cho-hoc-sinh-516193.html
+
+Dev_Education_7.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/co-hoi-phat-trien-tu-duy-tranh-bien-cho-sinh-vien-mien-trung-456074.html
+
+Dev_Education_6.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/huong-dan-nha-khoa-hoc-tim-nguon-ho-tro-nghien-cuu-2706.html
+
+Dev_Education_2.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/thieu-co-che-cho-trung-tam-hoc-tap-cong-dong-518091.html
+
+Dev_Education_3.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/tong-ket-chuong-trinh-tu-van-mua-thi-32844.html
+
+Dev_Education_1.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/hieu-duoc-chet-lien-507153.html
+
+Dev_Education_0.raw	﻿// URL: http://www.thanhnien.com.vn/giao-duc/tuyen-duong-hoc-sinh-sinh-vien-dan-toc-thieu-so-hoc-gioi-506705.html
+
+Dev_Entertainment_4.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/my-tam-phat-hanh-mv-thuong-ca-tieng-viet-449510.html
+
+Dev_Entertainment_5.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/nguyen-dinh-thanh-tam-cung-dao-dien-colin-weiss-lam-mv-358963.html
+
+Dev_Entertainment_7.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/phat-hien-phu-kien-vang-o-dien-kinh-thien-517725.html
+
+Dev_Entertainment_6.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/angelina-jolie-lam-phim-bao-ve-dong-vat-455471.html
+
+Dev_Entertainment_2.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/3030-cua-mpk-517443.html
+
+Dev_Entertainment_3.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/513-tac-pham-tham-du-lien-hoan-truyen-hinh-toan-quoc-518087.html
+
+Dev_Entertainment_1.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/festival-hue-2014-deepblue-me-hoac-khan-gia-82845.html
+
+Dev_Entertainment_0.raw	﻿// URL: http://www.thanhnien.com.vn/van-hoa-nghe-thuat/rihanna-khoi-kien-hang-thoi-trang-topshop-28897.html
+
+Dev_Science_9.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/vu-va-cham-huy-diet-hon-3-ti-nam-truoc-83339.html
+
+Dev_Science_8.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/robot-mem-453668.html
+
+Dev_Science_0.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/robot-do-bang-o-bien-nam-cuc-512102.html
+
+Dev_Science_1.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/vat-lieu-sieu-khang-nuoc-78655.html
+
+Dev_Science_3.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/dung-chim-ruoi-cai-tien-may-bay-truc-thang-445707.html
+
+Dev_Science_2.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/kha-nang-dong-vat-moc-lai-chi-co-tu-300-trieu-nam-truoc-461030.html
+
+Dev_Science_6.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/he-thong-thu-quang-nang-va-phong-nang-lon-nhat-272287.html
+
+Dev_Science_7.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/vuon-thuy-canh-thong-minh-trong-phong-511477.html
+
+Dev_Science_5.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/xay-dung-kinh-thien-van-lon-nhat-the-gioi-514995.html
+
+Dev_Science_4.raw	﻿// URL: http://www.thanhnien.com.vn/khoa-hoc/nam-cuc-lanh-nuoc-uc-han-han-80091.html
+
+Dev_World_8.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/hanh-khach-trung-quoc-lai-danh-nhau-tren-may-bay-518237.html
+
+Dev_World_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/iraq-muon-mua-24-truc-thang-chien-dau-apache-87981.html
+
+Dev_World_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/su-co-vi-khuan-benh-than-chan-dong-348527.html
+
+Dev_World_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/vu-may-bay-algeria-roi-co-nhan-chung-thay-may-bay-bi-set-danh-400912.html
+
+Dev_World_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/uy-vien-quoc-vu-vien-trung-quoc-duong-khiet-tri-tiep-tuc-den-viet-nam-504952.html
+
+Dev_World_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/ngoi-tu-oan-30-nam-450891.html
+
+Dev_World_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/han-quoc-tap-tran-gan-vung-tranh-chap-33.html
+
+Dev_World_7.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/europol-triet-pha-bang-dua-lau-nguoi-viet-sang-chau-au-510920.html
+
+Dev_World_6.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi/sap-cong-trinh-xay-dung-khong-the-tuong-tuong-duoc-o-trieu-tien-79456.html
+
+Dev_Life_2.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/nguoi-sai-gon-tho-o-voi-sieu-trang-445422.html
+
+Dev_Life_3.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/giam-gia-tran-ve-may-bay-518681.html
+
+Dev_Life_1.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/su-tro-lai-cua-mau-toc-den-88844.html
+
+Dev_Life_0.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/gia-danh-cong-an-lua-tien-thieu-nu-448164.html
+
+Dev_Life_4.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/chay-kho-vang-ma-3-nguoi-tu-vong-canh-bao-tu-truoc-nhung-dan-chu-quan-517673.html
+
+Dev_Life_5.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/tai-hien-ha-noi-36-pho-phuong-pho-co-hoi-an-o-ha-long-451052.html
+
+Dev_Life_6.raw	﻿// URL: http://www.thanhnien.com.vn/doi-song/cherry-giai-phap-cho-nguoi-giam-can-262485.html
+
+Dev_Military_0.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/han-quoc-nang-tam-ban-ten-lua-bao-phu-trieu-tien-84085.html
+
+Dev_Military_1.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/israel-ham-danh-phu-dau-iran-11926.html
+
+Dev_Military_3.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/viet-nam-da-co-doi-lai-tau-ngam-kilo-thu-2-10242.html
+
+Dev_Military_2.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/my-va-dong-minh-thuc-hien-tren-800-cuoc-khong-kich-is-509302.html
+
+Dev_Military_6.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/uc-phat-hien-nhieu-chien-ham-nga-tien-thang-ve-phia-uc-509030.html
+
+Dev_Military_7.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/may-bay-quan-su-an-do-roi-5-nguoi-chet-84959.html
+
+Dev_Military_5.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/quan-chung-hai-quan-to-chuc-dai-hoi-thi-dua-quyet-thang-519100.html
+
+Dev_Military_4.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/han-quoc-ban-12-chien-dau-co-cho-philippines-84961.html
+
+Dev_Military_8.raw	﻿// URL: http://www.thanhnien.com.vn/quoc-phong/vu-khi-laser-ban-ha-ten-lua-tau-chien-va-may-bay-515757.html
+
+Dev_Sports_5.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20141112/ong-doan-nguyen-duc-su-viec-khong-chi-gay-phuong-hai-cho-cong-phuong.aspx
+
+Dev_Sports_4.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140424/ro-tin-puyol-va-xavi-gian-nhau-vi-cung-yeu-mot-nguoi-dep.aspx
+
+Dev_Sports_3.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20131225/don-giang-sinh-bang-tiec-nhay.aspx
+
+Dev_Sports_2.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130109/lance-armstrong-se-thu-nhan-da-gian-lan-doping-tinh-vi.aspx
+
+Dev_Sports_0.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20130625/world-cup-2014-se-chuyen-den-my.aspx
+
+Dev_Sports_1.raw	﻿// URL: http://thethao.thanhnien.com.vn/pages/20140815/fifa-bi-kien-doi-boi-thuong-1-ti-euro-vi-cong-tac-trong-tai-o-world-cup-2014.aspx
+
+Dev_Politics_society_6.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/bat-giam-doc-quy-tin-dung-nhan-dan-508028.html
+
+Dev_Politics_society_7.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/giam-gia-xang-it-nhat-491-donglit-444623.html
+
+Dev_Politics_society_5.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/cap-song-sinh-gia-dang-tri-thuc-di-trom-cap-83932.html
+
+Dev_Politics_society_4.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/day-manh-viec-xu-ly-dang-vien-vi-pham-459942.html
+
+Dev_Politics_society_0.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/chu-tich-nuoc-truong-tan-sang-tham-xa-diem-nong-thon-moi-tan-hoi-16679.html
+
+Dev_Politics_society_1.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/phat-hien-hang-chuc-ngan-goi-thuoc-la-lau-506250.html
+
+Dev_Politics_society_3.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/han-che-lam-luat-kieu-vua-thiet-ke-vua-thi-cong-456987.html
+
+Dev_Politics_society_2.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/chua-xac-dinh-duoc-chi-huyen-bi-chet-truoc-hay-sau-khi-vut-xac-xuong-song-451306.html
+
+Dev_Politics_society_9.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/huy-dong-hon-500-nguoi-dap-tat-vu-chay-rung-nghiem-trong-77979.html
+
+Dev_Politics_society_8.raw	﻿// URL: http://www.thanhnien.com.vn/chinh-tri-xa-hoi/nhan-qua-bieu-co-tinh-chat-hoi-lo-van-ngam-ngam-dien-ra-518144.html
+
+Dev_Information_technology_8.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/non-thong-minh-tren-chien-truong-78467.html
+
+Dev_Information_technology_9.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/facebook-se-som-nang-cap-look-back-4004.html
+
+Dev_Information_technology_1.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/phat-hien-ma-doc-tan-cong-he-dieu-hanh-64bit-435075.html
+
+Dev_Information_technology_0.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/pes-2015-thu-hut-nguoi-ham-mo-509757.html
+
+Dev_Information_technology_2.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/thi-truong-pc-nam-2013-sut-giam-manh-5742.html
+
+Dev_Information_technology_3.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/apple-sap-co-macbook-air-12-inch-dung-man-hinh-retina-85584.html
+
+Dev_Information_technology_7.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/uber-se-bo-sung-cong-nghe-sinh-trac-hoc-518193.html
+
+Dev_Information_technology_6.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/trong-45-phut-my-hung-chiu-5840-vu-tan-cong-mang-226227.html
+
+Dev_Information_technology_4.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/app-store-tai-nga-dieu-chinh-gia-ban-519066.html
+
+Dev_Information_technology_5.raw	﻿// URL: http://www.thanhnien.com.vn/cong-nghe-thong-tin/oppo-che-tinh-nang-sac-nhanh-tren-galaxy-note-4-451287.html
+
+Dev_Life_of_youth_5.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/khoi-dong-hanh-trinh-dap-xe-xuyen-mien-tay-nam-bo-trong-37-ngay-22791.html
+
+Dev_Life_of_youth_4.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/khoi-dong-hanh-trinh-ve-voi-dien-bien-phu-83105.html
+
+Dev_Life_of_youth_6.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/gan-500-sinh-vien-hoc-cach-khoi-nghiep-446723.html
+
+Dev_Life_of_youth_7.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/dem-thanh-nien-tay-ninh-tiep-noi-truyen-thong-tuoi-tre-o-r-517766.html
+
+Dev_Life_of_youth_3.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/duong-pho-sai-gon-ruc-ro-den-hoa-don-giang-sinh-517883.html
+
+Dev_Life_of_youth_2.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/soi-dong-chien-dich-tinh-nguyen-mua-he-xanh-lan-thu-21-262032.html
+
+Dev_Life_of_youth_0.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/giu-chan-nguoi-lao-dong-89397.html
+
+Dev_Life_of_youth_1.raw	﻿// URL: http://www.thanhnien.com.vn/the-gioi-tre/tang-huy-hieu-tuoi-tre-dung-cam-cho-27-chien-si-vung-canh-sat-bien-1-455485.html
+
+Dev_Travel_8.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/ra-mat-cong-thong-tin-du-lich-da-nang-453221.html
+
+Dev_Travel_1.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/khai-truong-lang-du-lich-cong-dong-tai-my-son-327596.html
+
+Dev_Travel_0.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/hoi-an-thanh-cong-voi-san-pham-du-lich-dem-pho-co-501346.html
+
+Dev_Travel_2.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/khach-quoc-te-den-bang-duong-bien-giam-toi-90-505400.html
+
+Dev_Travel_3.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/jetstar-pacific-tiep-tuc-ban-ve-may-bay-gia-3000-dongchang-444541.html
+
+Dev_Travel_7.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/vietravel-doat-giai-lu-hanh-hang-dau-chau-a-502327.html
+
+Dev_Travel_6.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/nhieu-co-hoi-phat-trien-hon-cho-du-lich-vn-514519.html
+
+Dev_Travel_4.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/vn-giu-nguyen-thu-hang-ve-nang-luc-canh-tranh-du-lich-327579.html
+
+Dev_Travel_5.raw	﻿// URL: http://www.thanhnien.com.vn/du-lich/mui-ne-lao-dao-vi-thieu-khach-nga-516855.html
+
