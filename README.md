@@ -1,4 +1,4 @@
-# NIIVTB: Vietnamese Phrase-Structure Treebank
+# NIIVTB: Vietnamese Constituent Treebank
 NIIVTB is a Vietnamese constituent treebank that is annotated with three layers: word segmentation, part-of-speech tagging, and bracketing. This treebank includes 20,588 sentences divided into two subsets, NIIVTB-1 (10,431 sentences) and NIIVTB-2 (10,157 sentences), corresponding to two different sets of raw texts: [VLSP](https://vlsp.hpda.vn/) and our original texts. The raw texts of VLSP, downloaded from Youth (Tuổi Trẻ) - an online daily newspaper, are focused on social and political topics. Our original texts, which were collected from a Vietnamese online newspaper - [Thanhnien news](https://thanhnien.vn), cover 14 topics. We selected an equal number of texts for each topic (please refer to [our LRE paper](https://link.springer.com/article/10.1007/s10579-017-9398-3 "Ensuring Annotation Consistency and Accuracy for Vietnamese Treebank") for more details). Each of NIIVTB-1 and NIIVTB-2 is separated into three parts, Dev including 1000 sentences (files in the Dev directory), Test including 1000 sentences (files in the Test directory), and Train including the rest (files in the Train directory).
 
 Due to the copyright issue, we provide only annotations. In order to obtain a treebank with original raw texts, please follow this procedure.
@@ -28,7 +28,7 @@ Newspaper after sentence segmentation:
 
 *Note:* If your raw texts are not identical to our texts, the invalid files will be listed in *"invalidFiles.txt"*. This means that the treebank was not created for those files. Please refer to the files in the directory *"NIIVTB-1-ID"* or *"NIIVTB-2-ID"* for modifying your texts. Your texts must have the same name and number of sentences (rows) as the ID files. Number in each row in the ID files indicates number of syllables per sentence that the raw texts must follow. 
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic]( https://creativecommons.org/licenses/by-nc-sa/2.0/).
+This work is licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International License]( https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### Tags
 
